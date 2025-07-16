@@ -1,0 +1,1 @@
+import{a3 as t,a4 as s,a5 as n,a8 as e,ad as r}from"./index-91b6ba5b.js";const o={},c={class:"search"},l=e("h2",null,"search",-1);function u(a,h){return s(),n("div",c,[l,e("h3",null,"住: "+r(a.$route.query.startDate),1),e("h3",null,"离: "+r(a.$route.query.endDate),1),e("h3",null,"城市: "+r(a.$route.query.currentCity),1)])}const i=t(o,[["render",u]]);export{i as default};

@@ -1,0 +1,1 @@
+import{a4 as s,a5 as c,a8 as a}from"./index-91b6ba5b.js";const l={class:"order"},r=a("h2",null,"order",-1),d=[r],_=2100,f={__name:"order",setup(u){return((e,n)=>{let o=e.length-1;for(let t=0;t<e.length;t++)if(e[t]>n){o=t-1;break}o!=-1&&(console.log(e),console.log("value: ",n,"index: ",o))})([300,400,600,900,1200,1400],_),(e,n)=>(s(),c("div",l,d))}};export{f as default};
